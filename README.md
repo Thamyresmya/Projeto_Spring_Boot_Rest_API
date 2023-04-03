@@ -1,6 +1,6 @@
 # Projeto Spring Boot Rest API
 
-![](inf/capa.png)
+![](inf/Capa.png)
 
 
 
